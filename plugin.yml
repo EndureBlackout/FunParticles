@@ -1,0 +1,9 @@
+name: FunParticles
+main: me.endureblackout.funparticles.FunParticlesMain
+version: 1.0
+description: Fun Particles
+author: [EndureBlackout]
+commands:
+  fp:
+    description: Main Command.
+    usage: "/fp"
